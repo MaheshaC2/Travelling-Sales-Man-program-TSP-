@@ -7,7 +7,6 @@ int main() {
         {15, 35, 0, 30},
         {20, 25, 30, 0}
     };
-
     // Try all 6 permutations manually starting from city 0
     int min = 9999;
     int cost;
